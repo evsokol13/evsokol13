@@ -1,16 +1,18 @@
-## Hi there 👋
+### machine learning & data analysis:
+- learning and applying Machine Learning with Python
+- NumPy, Pandas, scikit-learn, Keras, TensorFlow
 
-<!--
-**evsokol13/evsokol13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## stack:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,postgres,markdown,git&theme=dark" />
+</p>
 
-Here are some ideas to get you started:
+## focused on now:
+- improving backend and database skills
+- learning ML/DL
+- writing clean and readable code
+- preparing to create a large-scale business-project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## contact:
+- GitHub: this profile
+- Telegram: @indintelligence
