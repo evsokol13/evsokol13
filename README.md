@@ -1,6 +1,6 @@
 ### machine learning & data analysis:
 - learning and applying Machine Learning with Python
-- NumPy, Pandas, scikit-learn, Keras, TensorFlow
+- NumPy, Pandas, scikit-learn, Keras&TensorFlow
 
 ## stack:
 <p align="left">
