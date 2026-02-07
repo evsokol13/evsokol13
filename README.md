@@ -3,7 +3,7 @@
 - NumPy, Pandas, scikit-learn, Keras, TensorFlow
 
 ## stack:
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,postgres,markdown,git&theme=dark" />
 </p>
 
