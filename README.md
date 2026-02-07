@@ -4,7 +4,7 @@
 
 ## stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,postgres,markdown,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,postgres&theme=dark" />
 </p>
 
 ## focused on now:
