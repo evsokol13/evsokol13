@@ -16,3 +16,4 @@
 ## contact:
 - GitHub: this profile
 - Telegram: @indintelligence
+- Telgram Channel: @seedependent
